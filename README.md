@@ -1,6 +1,2 @@
-Este es el repositorio de evaluación inicial
-
-Es el README
-
-Autor: Justin Rivas 2º DAW
-
+Proyecto Intermodular 2026 / 27
+Alumno : Justin Rivas
